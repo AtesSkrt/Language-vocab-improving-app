@@ -3,7 +3,7 @@
 A simple yet effective **language learning app** built with Python using **PyQt5** for the user interface and **pygame** for sound effects. This app allows users to practice vocabulary, track their progress, and improve their language skills interactively.
 
 
-[![Language Learning App - Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=yDH6p7qp3AA)
+[![Language-vocab-improving-app - Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=yDH6p7qp3AA)
 
 A simple yet effective **language learning app** built with Python using **PyQt5** for the user interface and **pygame** for sound effects. This app allows users to practice vocabulary, track their progress, and improve their language skills interactively.
 
@@ -13,7 +13,7 @@ A simple yet effective **language learning app** built with Python using **PyQt5
 
 Watch the full demo of the app on YouTube:
 
-[![Language Learning App - Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=yDH6p7qp3AA)
+[![Language-vocab-improving-app - Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=yDH6p7qp3AA)
 
 ---
 
